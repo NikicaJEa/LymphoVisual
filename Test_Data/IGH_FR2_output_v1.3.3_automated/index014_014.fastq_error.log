@@ -1,0 +1,17 @@
+Name "main::MunrosScarletGlobemallow" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 9.
+Name "main::badVJcount" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 346.
+Name "main::badJscore" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 347.
+Name "main::RockyMountainLily" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 385.
+Name "main::bad_Jcount" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 351.
+Name "main::WestonsMariposaLily" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 131.
+Name "main::WhitneysLocoWeed" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 557.
+Name "main::bad_Vcount" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 343.
+Name "main::WallowaMountains" used only once: possible typo at Calc_IGH_FR2_PGM.pl line 573.
+Use of uninitialized value $NorthernFairyCandelabra in concatenation (.) or string at Calc_IGH_FR2_PGM.pl line 18.
+Use of uninitialized value $NorthernFairyCandelabra in concatenation (.) or string at Calc_IGH_FR2_PGM.pl line 35, <GET_DATA1> line 286.
+Use of uninitialized value $HudsonsBayCurrant in division (/) at Calc_IGH_FR2_PGM.pl line 481.
+Use of uninitialized value $HudsonsBayCurrant in concatenation (.) or string at Calc_IGH_FR2_PGM.pl line 482.
+Total reads = 800113
+Found Total reads = 140984
+Reads to be aligned (fraction) = 7946	(5.64)
+Aligned reads (fraction) = 	(0.00)
